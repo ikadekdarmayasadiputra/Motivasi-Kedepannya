@@ -1,11 +1,9 @@
 HTML
 - Semantic HTML
 CSS Layotuing
-- Float
 - FLexbox
 - Grid
 CSS 3
 - Animation
-- Transition
 JavaScript
 - JavaScript Dasar
