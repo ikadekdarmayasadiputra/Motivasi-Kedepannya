@@ -1,2 +1,2 @@
 # Motivasi-Kedepannya
-Motivasi kedepannya
+Motivasi Saya Kedepannya
